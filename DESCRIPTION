@@ -1,0 +1,10 @@
+Package: Mplus2texreg
+Type: Package
+Title: Mplus 2 texreg
+Version: 1.0
+Date: 2013-02-14
+Author: William M. Murrah
+Maintainer: William Murrah <william.murrah@gmail.com>
+Depends: MplusAutomation, texreg
+Description: this package creates model objects from Mplus output for use in texreg
+License: GPL-3
